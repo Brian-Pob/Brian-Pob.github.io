@@ -22,12 +22,12 @@ foo:
 main:
   - title: "Résumé"
     url: /resume/
-  - title: "About"
-    url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Connections"
-    url: /collection-archive/
+  - title: "Contact Me"
+    url: /contact-me/
+  - title: "About"
+    url: /about/
   # - title: "Terms &amp; Privacy Policy"
   #   url: /terms/
 
