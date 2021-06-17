@@ -58,6 +58,7 @@ For even more demo pages check the [posts archive][year-archive].
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
+## Rick Astley
 ---
 
 ## Credits
@@ -79,6 +80,7 @@ For even more demo pages check the [posts archive][year-archive].
 - Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [Lunr](http://lunrjs.com)
+
 
 ---
 
