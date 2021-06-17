@@ -94,7 +94,7 @@ author:
   bio              : "UX Designer. Web Developer. Jesus Freak. Pro Gamer. Book Consumer."
   location         : "Tallahassee, FL"
   links:
-    - label: "(haven't bought the domain yet lol)"
+    - label: "haven't bought the domain yet lol"
       icon: "fas fa-fw fa-link"
       url: "https://brianpoblete.com"
     - label: "Twitter"

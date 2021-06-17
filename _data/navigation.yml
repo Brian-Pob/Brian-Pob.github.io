@@ -21,15 +21,15 @@ foo:
 # main links
 main:
   - title: "Résumé"
-    url: /docs/quick-start-guide/
+    url: /resume/
   - title: "About"
     url: /about/
   - title: "Portfolio"
-    url: /year-archive/
+    url: /portfolio/
   - title: "Connections"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  # - title: "Terms &amp; Privacy Policy"
+  #   url: /terms/
 
 
 # documentation links
