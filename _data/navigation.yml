@@ -20,14 +20,14 @@ foo:
 
 # main links
 main:
+  - title: "CV"
+    url: /cv/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Résumé"
-    url: /resume/
   - title: "Contact Me"
     url: /contact-me/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   # - title: "Terms &amp; Privacy Policy"
   #   url: /terms/
 

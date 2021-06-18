@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "View My Portfolio"
+      url: "/portfolio/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
@@ -69,6 +69,8 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+
 
 {% include feature_row id="feature_row2" type="left" %}
 

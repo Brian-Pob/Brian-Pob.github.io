@@ -20,7 +20,7 @@ url                      : https://brian-pob.github.io # the base hostname & pro
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "brian-pob/brian-pob.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     :  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -45,7 +45,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/profile_sq.jpg"
+  avatar           : "/assets/images/profile_sq.png"
   bio              : "UX Designer. Web Developer. Jesus Freak. Pro Gamer. Book Consumer."
   location         : "Tallahassee, FL"
   links:
@@ -213,7 +213,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      # read_time: true
   # _docs
   - scope:
       path: ""
@@ -252,6 +252,8 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      comment: true
+      read_time: true
 
 
 # Sass/SCSS
