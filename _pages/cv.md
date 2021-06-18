@@ -3,18 +3,23 @@ permalink: /cv/
 title: "Curriculum Vitae"
 excerpt: "UX Designer & Web Developer"
 layout: "single"
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
+certificates_gallery:
+  - url: /assets/images/cert-interaction.jpg
+    image_path: /assets/images/cert-interaction.jpg
+    alt: "Course Certificate - Interaction Design for Usability"
+    title: "<a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/PWH4v64G9'>Interaction Design for Usability</a>"
+  - url: /assets/images/cert-conducting.jpg
+    image_path: /assets/images/cert-conducting.jpg
+    alt: "Course Certificate - Conducting Usability Testing"
+    title: "<a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/PWH4q9bcZ'>Conducting Usability Testing</a>"
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
+    title: "Sample image"
+  
 last_modified_at: 2021-05-11T10:23:16-04:00
 toc: true
+toc_sticky: true
 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -29,7 +34,7 @@ feature_row2:
 "Maybe this line can be a word of commendation from someone who likes me."<br>
 \- Rick Astley (Client, 2022)
 
-<!-- {% include gallery id="layouts_gallery" caption="" %} -->
+
 
 <!-- [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large} -->
 
@@ -63,7 +68,7 @@ feature_row2:
 </table>
 
 ## Projects
-<table>
+<table style="width:100%;">
 <thead>
   <tr>
     <th>Project Name</th>
@@ -72,18 +77,18 @@ feature_row2:
 </thead>
 <tbody>
   <tr>
-    <td>360X</td>
+    <td>360X Research Paper</td>
     <td>I co-authored a research paper on the design of a 360-degree-video platform interface. This paper was presented on April 2019 at the CHIUXID19 Conference held in Bali, Indonesia. The full paper is available for free <a href="https://www.researchgate.net/publication/331500855_A_Research_through_Design_Rtd_Approach_in_the_Design_of_a_360-Video_Platform_Interface" target="_blank" rel="noopener noreferrer">here</a>.</td>
   </tr>
   <tr>
-    <td>COMET Front End Workshop</td>
+    <td>COMET Front-End Development Workshop</td>
     <td>I co-taught a basic front-end development workshop for the Center for Complexity and Emerging Technologies (COMET) Lab at De LaSalle University, Manila. I created most of the materials used for the workshop available <a href="https://github.com/Brian-Pob/FrontEndWorkshop" target="_blank" rel="noopener noreferrer">here</a>.</td>
   </tr>
 </tbody>
 </table>
 
 ## Certifications
-
+{% include gallery id="certificates_gallery" caption="My certifications from courses including Interaction Design, Conducting Usability Testing, and more." %}
 ## Education
 
 | Name                                        | Description                                           |
@@ -109,28 +114,3 @@ For even more demo pages check the [posts archive][year-archive].
 
 
 --- 
-
-## Credits
-"Here is some text"
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
