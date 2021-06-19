@@ -91,26 +91,23 @@ feature_row2:
 {% include gallery id="certificates_gallery" caption="My certifications from courses including Interaction Design, Conducting Usability Testing, and more." %}
 ## Education
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
+<table style="width:100%;">
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>360X Research Paper</td>
+    <td>I co-authored a research paper on the design of a 360-degree-video platform interface. This paper was presented on April 2019 at the CHIUXID19 Conference held in Bali, Indonesia. The full paper is available for free <a href="https://www.researchgate.net/publication/331500855_A_Research_through_Design_Rtd_Approach_in_the_Design_of_a_360-Video_Platform_Interface" target="_blank" rel="noopener noreferrer">here</a>.</td>
+  </tr>
+  <tr>
+    <td>COMET Front-End Development Workshop</td>
+    <td>I co-taught a basic front-end development workshop for the Center for Complexity and Emerging Technologies (COMET) Lab at De LaSalle University, Manila. I created most of the materials used for the workshop available <a href="https://github.com/Brian-Pob/FrontEndWorkshop" target="_blank" rel="noopener noreferrer">here</a>.</td>
+  </tr>
+</tbody>
+</table>
 
 --- 
