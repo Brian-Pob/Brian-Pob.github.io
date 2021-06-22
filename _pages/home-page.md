@@ -1,5 +1,5 @@
 ---
-title: "Hi!"
+title: "Hi! (Work in progress)"
 layout: single
 permalink: /
 date: 2021-06-19
@@ -16,7 +16,7 @@ excerpt: "Welcome to my website! I am a UX Designer and Web Developer based in T
 
 intro: 
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    title: "Nisi id enim aliqua."
+    title: "This website is a work in progress."
     excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque.'
     url: "/cv/"
     btn_class: "btn--primary"
