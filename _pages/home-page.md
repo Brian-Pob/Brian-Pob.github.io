@@ -6,11 +6,11 @@ date: 2021-06-19
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/motion.gif
+  overlay_image: 'https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/work-in-progress_zJ6mkuuu_SB_PM.jpg'
   actions:
     - label: "View My Portfolio"
       url: "/portfolio/"
-  caption: "Photo credit: [**Mike Mirandi**](https://mikemirandi.com/gifs)"
+  caption: "Photo credit: [**Storyblocks**](https://storyblocks.com)"
 excerpt: "Welcome to my website! I am a UX Designer and Web Developer based in Tallahassee, Florida. Take a look at some of my previous projects. You'll probably find some of them quite interesting!"
 
 

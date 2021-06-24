@@ -94,32 +94,37 @@ author:
   bio              : "UX Designer. Web Developer. Jesus Freak. Pro Gamer. Book Consumer."
   location         : "Tallahassee, FL"
   links:
-    - label: "haven't bought the domain yet lol"
-      icon: "fas fa-fw fa-link"
-      url: "https://brianpoblete.com"
+    # - label: "haven't bought the domain yet lol"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://brianpoblete.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:brian.poblete98@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"  
+      url: "https://www.linkedin.com/in/brian-poblete/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dabrianator"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Brian-Pob"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dabrianator"
+    
 
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:brian.poblete98@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dabrianator"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Brian-Pob"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dabrianator"
+    
 
 
 # Reading Files
@@ -179,13 +184,7 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
+  blogs:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -214,10 +213,10 @@ defaults:
       layout: single
       author_profile: true
       # read_time: true
-  # _docs
+  # _blogs
   - scope:
       path: ""
-      type: docs
+      type: blogs
     values:
       layout: single
       read_time: false
@@ -225,7 +224,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"
+        nav: "blogs"
   # _recipes
   - scope:
       path: ""

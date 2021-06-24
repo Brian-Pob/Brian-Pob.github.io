@@ -26,8 +26,10 @@ main:
     url: /portfolio/
   - title: "Contact Me"
     url: /contact-me/
-  # - title: "About"
-  #   url: /about/
+  - title: "About"
+    url: /about/
+  - title: "Blogs"
+    url: /blogs/  
   # - title: "Terms &amp; Privacy Policy"
   #   url: /terms/
 

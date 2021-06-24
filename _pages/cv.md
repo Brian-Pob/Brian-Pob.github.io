@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
-excerpt: "UX Designer & Web Developer"
+excerpt: "Brian Poblete - UX Designer & Web Developer"
 layout: "single"
 certificates_gallery:
   - url: /assets/images/cert-interaction.jpg
@@ -88,24 +88,36 @@ feature_row2:
 </table>
 
 ## Certifications
-{% include gallery id="certificates_gallery" caption="My certifications from courses including Interaction Design, Conducting Usability Testing, and more." %}
+{% include gallery id="certificates_gallery" caption="Certificate providers include the Interaction Design Foundation, XXX, and YYY." %}
 ## Education
 
 <table style="width:100%;">
+<colgroup>
+<col width="25%" />
+<col width="28%" />
+<col width="15%" />
+<col width="32%" />
+</colgroup>
 <thead>
   <tr>
-    <th>Project Name</th>
-    <th>Description</th>
+    <th>Institution</th>
+    <th>Program</th>
+    <th>Start End</th>
+    <th>Status</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>360X Research Paper</td>
-    <td>I co-authored a research paper on the design of a 360-degree-video platform interface. This paper was presented on April 2019 at the CHIUXID19 Conference held in Bali, Indonesia. The full paper is available for free <a href="https://www.researchgate.net/publication/331500855_A_Research_through_Design_Rtd_Approach_in_the_Design_of_a_360-Video_Platform_Interface" target="_blank" rel="noopener noreferrer">here</a>.</td>
+    <td>Tallahassee Community College</td>
+    <td>A.A. - Transfer Degree</td>
+    <td>2019 - Present</td>
+    <td>In Progress.</td>
   </tr>
   <tr>
-    <td>COMET Front-End Development Workshop</td>
-    <td>I co-taught a basic front-end development workshop for the Center for Complexity and Emerging Technologies (COMET) Lab at De LaSalle University, Manila. I created most of the materials used for the workshop available <a href="https://github.com/Brian-Pob/FrontEndWorkshop" target="_blank" rel="noopener noreferrer">here</a>.</td>
+    <td>De LaSalle University - Manila</td>
+    <td>B.S. - Computer Science</td>
+    <td>2016 - 2019</td>
+    <td>Transferred out before program completion.</td>
   </tr>
 </tbody>
 </table>
