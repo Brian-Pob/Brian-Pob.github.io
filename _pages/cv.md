@@ -88,8 +88,8 @@ feature_row2:
 </tbody>
 </table>
 
-## Certifications
-{% include gallery id="certificates_gallery" caption="Certificates earned from courses offered by the Interaction Design Foundation (IxDF)." %}
+## Certifications (Click images to zoom in)
+{% include gallery id="certificates_gallery" caption="UX certificates from the Interaction Design Foundation (IxDF)." %}
 ## Education
 
 <table style="width:100%;">
