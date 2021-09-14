@@ -254,7 +254,6 @@ defaults:
       comment: true
       read_time: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass

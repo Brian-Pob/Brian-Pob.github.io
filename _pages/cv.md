@@ -2,12 +2,12 @@
 permalink: /cv/
 title: "Curriculum Vitae"
 excerpt: "Brian Poblete - UX Designer & Web Developer"
-layout: "single"
 certificates_gallery:
   - url: /assets/images/cert-interaction.jpg
     image_path: /assets/images/cert-interaction.jpg
     alt: "Course Certificate - Interaction Design for Usability"
     title: "<a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/PWH4v64G9'>Interaction Design for Usability</a>"
+
   - url: /assets/images/cert-conducting.jpg
     image_path: /assets/images/cert-conducting.jpg
     alt: "Course Certificate - Conducting Usability Testing"
@@ -108,12 +108,14 @@ feature_row2:
   </tr>
 </thead>
 <tbody>
-<tr>
+
+  <tr>
     <td>Florida State University</td>
     <td>B.S. - Computer Science</td>
     <td>2021 - 2023</td>
     <td>In progress.</td>
   </tr>
+
   <tr>
     <td>Tallahassee Community College</td>
     <td>A.A. - Transfer Degree</td>
