@@ -215,7 +215,7 @@ defaults:
       # read_time: true
   # _blogs
   - scope:
-      path: ""
+      path: "_blogs"
       type: blogs
     values:
       layout: single
@@ -223,6 +223,8 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      sidebar:
+        nav: "blogs"
   # _recipes
   - scope:
       path: ""
