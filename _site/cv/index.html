@@ -94,22 +94,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -122,7 +109,6 @@
 
   <body class="layout--single">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -321,8 +307,9 @@
             </nav>
           </aside>
         
-        <!-- <p>"Lorem ipsum dolor sit amet"<br />
-- John Doe (Client, 2022)</p> -->
+        <!-- 
+"Maybe this line can be a word of commendation from someone who likes me."<br>
+\- Rick Astley (Client, 2022) -->
 
 <!-- [Install the Theme](/docs/quick-start-guide/){: .btn .btn--success .btn--large} -->
 
@@ -390,14 +377,15 @@
           <img src="/assets/images/cert-conducting.jpg" alt="Course Certificate - Conducting Usability Testing" />
       </a>
     
-      <a href="/assets/images/cert-uxbeginner.jpg" title="&lt;a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/49b73d71-9858-4057-8b3e-d40a8dd7fbc3?certificateType=course'&gt;User Experience: The Beginner's Guide&lt;/a&gt;">
-        <img src="/assets/images/cert-uxbeginner.jpg" alt="Course Certificate - User Experience: The Beginner's Guide" />
+  
+    
+      <a href="/assets/images/cert-uxbeginner.jpg" title="&lt;a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/49b73d71-9858-4057-8b3e-d40a8dd7fbc3?certificateType=course'&gt;UX Design: The Beginner's Guide&lt;/a&gt;">
+          <img src="/assets/images/cert-uxbeginner.jpg" alt="Course Certificate - UX Design: The Beginner's Guide" />
       </a>
     
-     
-    
   
-    <figcaption>Certificates from the Interaction Design Foundation (IxDF).
+  
+    <figcaption>Certificates earned from courses offered by the Interaction Design Foundation (IxDF).
 </figcaption>
   
 </figure>
@@ -411,7 +399,6 @@
 <col width="15%" />
 <col width="32%" />
 </colgroup>
-
 <thead>
   <tr>
     <th>Institution</th>
@@ -420,35 +407,26 @@
     <th>Status</th>
   </tr>
 </thead>
-
 <tbody>
-
-  <tr>
+<tr>
     <td>Florida State University</td>
     <td>B.S. - Computer Science</td>
-    <td>2021 - 2023 (expected graduation)</td>
-    <td>In Progress</td>
+    <td>2021 - 2023</td>
+    <td>In progress.</td>
   </tr>
-
   <tr>
     <td>Tallahassee Community College</td>
     <td>A.A. - Transfer Degree</td>
     <td>2019 - 2021</td>
-    <td>Completed</td>
+    <td>Completed.</td>
   </tr>
-
   <tr>
     <td>De LaSalle University - Manila</td>
     <td>B.S. - Computer Science</td>
     <td>2016 - 2019</td>
     <td>Transferred out before program completion.</td>
   </tr>
-
-  
-
 </tbody>
-
-
 </table>
 
 <hr />

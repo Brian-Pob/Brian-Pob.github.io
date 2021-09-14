@@ -12,10 +12,11 @@ certificates_gallery:
     image_path: /assets/images/cert-conducting.jpg
     alt: "Course Certificate - Conducting Usability Testing"
     title: "<a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/PWH4q9bcZ'>Conducting Usability Testing</a>"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-    title: "Sample image"
+
+  - url: /assets/images/cert-uxbeginner.jpg
+    image_path: /assets/images/cert-uxbeginner.jpg
+    alt: "Course Certificate - UX Design: The Beginner's Guide"
+    title: "<a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/49b73d71-9858-4057-8b3e-d40a8dd7fbc3?certificateType=course'>UX Design: The Beginner's Guide</a>"
   
 last_modified_at: 2021-05-11T10:23:16-04:00
 toc: true
@@ -30,9 +31,9 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
+<!-- 
 "Maybe this line can be a word of commendation from someone who likes me."<br>
-\- Rick Astley (Client, 2022)
+\- Rick Astley (Client, 2022) -->
 
 
 
@@ -88,7 +89,7 @@ feature_row2:
 </table>
 
 ## Certifications
-{% include gallery id="certificates_gallery" caption="Certificate providers include the Interaction Design Foundation, XXX, and YYY." %}
+{% include gallery id="certificates_gallery" caption="Certificates earned from courses offered by the Interaction Design Foundation (IxDF)." %}
 ## Education
 
 <table style="width:100%;">
@@ -107,11 +108,17 @@ feature_row2:
   </tr>
 </thead>
 <tbody>
+<tr>
+    <td>Florida State University</td>
+    <td>B.S. - Computer Science</td>
+    <td>2021 - 2023</td>
+    <td>In progress.</td>
+  </tr>
   <tr>
     <td>Tallahassee Community College</td>
     <td>A.A. - Transfer Degree</td>
-    <td>2019 - Present</td>
-    <td>In Progress.</td>
+    <td>2019 - 2021</td>
+    <td>Completed.</td>
   </tr>
   <tr>
     <td>De LaSalle University - Manila</td>
