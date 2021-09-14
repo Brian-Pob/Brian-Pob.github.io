@@ -215,7 +215,7 @@ defaults:
       # read_time: true
   # _blogs
   - scope:
-      path: "_blogs"
+      path: ""
       type: blogs
     values:
       layout: single
