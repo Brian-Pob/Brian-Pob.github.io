@@ -18,7 +18,7 @@ certificates_gallery:
     alt: "Course Certificate - UX Design: The Beginner's Guide"
     title: "<a href='https://www.interaction-design.org/brian-michael-poblete/certificate/course/49b73d71-9858-4057-8b3e-d40a8dd7fbc3?certificateType=course'>UX Design: The Beginner's Guide</a>"
   
-last_modified_at: 2021-05-11T10:23:16-04:00
+last_modified_at: 2021-09-16T09:50:16-04:00
 toc: true
 toc_sticky: true
 

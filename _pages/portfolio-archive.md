@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Here's a list of all of my projects. Take a look!
+These are my portfolio projects. I'll be adding a few more posts about stuff I've done so be sure to check back soon! 
