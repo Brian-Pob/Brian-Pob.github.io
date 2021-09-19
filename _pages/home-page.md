@@ -1,6 +1,6 @@
 ---
 title: "Hi! (Work in progress)"
-layout: splash
+layout: single
 permalink: /
 date: 2021-06-19
 # author_profile: false
@@ -15,9 +15,9 @@ header:
 excerpt: "Welcome to my website! I am a UX Designer and Web Developer based in Tallahassee, Florida. Take a look at some of my previous projects. You'll probably find some of them quite interesting!"
 
 about_me: 
-  - image_path: assets/images/portfolio_thumb.png
-    title: "Portfolio"
-    excerpt: 'Want to see some of my projects? Click the button below!'
+  - image_path: assets/images/360X/methodology.jpg
+    title: "Portfolio Projects"
+    excerpt: 'On my portfolio page, you will find links to blog posts detailing my various projects. I believe you will find some of them interesting!'
     url: "/portfolio/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
@@ -25,14 +25,14 @@ about_me:
 intro: 
   - image_path: assets/images/cert-uxbeginner.jpg
     title: "Curriculum Vitae (CV)"
-    excerpt: 'Take a look at some of my skills and accmomplishments on my CV page!'
+    excerpt: 'Take a look at some of my skills and accmomplishments on my CV page! Here, you can find my educational background, my work history, and a list of some of my projects.'
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 
 
 feature_row:
-  - image_path: assets/images/360X/IMG_5658.jpg
+  - image_path: assets/images/360X/IMG_5658_cropped.jpg
     alt: "360X Research Paper"
     title: "360X Research Paper"
     excerpt: "360X: A Research through Design (Rtd) Approach in the Design of a 360-Video Platform Interface"
