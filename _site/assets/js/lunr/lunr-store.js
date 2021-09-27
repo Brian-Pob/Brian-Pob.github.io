@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/portfolio/360x/",
         "teaser": "/assets/images/360X/IMG_5658.jpg"
+      },{
+        "title": "Electronic Storefront Redesign",
+        "excerpt":"              As part of my internship at Inkblot Media Group, I was tasked with redesigning a potential client’s current website. The website was a storefront for selling a certain woodworking product.                  In my section of the report, I listed the issues with the current website design. These issues included the design being boring, having no call to action for the user, no structure in some pages, and information being unclear.                  I then showed the wireframes for the redesign. To create the initial layout, I decided to look up some best practices for ecommerce website layouts. Like how products should be displayed and how information should be organized. Since the site also had a page dedicated for video guides, I also researched on proper layouts for displaying multiple videos on a page.   One extremely critical area where I was admittedly lacking is user research. It was always my intention to conduct user research to determine what customers would want to have on a website like this. However, I was only able to do up to basic wireframe designs because the client did not push through with taking us up.   Nevertheless, I learned a lot about what should go into a good report. I also learned that there are a lot of resources that you can find online about tried and tested layouts that you can build off of after conducting user research and user tests.   I will definitely remember this short project as it was my first UX Design project as part of an actual job.  ","categories": [],
+        "tags": [],
+        "url": "/portfolio/site_redesign/",
+        "teaser": "/assets/images/site_redesign/ipad1.png"
       },]
