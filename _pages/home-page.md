@@ -40,12 +40,12 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: assets/images/site_redesign/ipad1.png
+    image_caption: "Image courtesy of [Mockup](https://getmockup.app/)"
     alt: "placeholder image 2"
-    title: "Fizz Bang Identity"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/portfolio/fizz-bang-identity/"
+    title: "Electronic Storefront Redesign"
+    excerpt: "How I propsed a for a client's storefront using wireframes (Mockup for iPad)"
+    url: "/portfolio/site_redesign/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

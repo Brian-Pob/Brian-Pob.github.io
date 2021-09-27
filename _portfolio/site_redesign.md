@@ -21,7 +21,7 @@ gallery:
     image_path: assets/images/site_redesign/client_site_blur_2.png
     alt: "Page 2 of site redesign report showing wireframes"
 
-last_modified_at: 2021-09-16 10:02:16
+last_modified_at: 2021-09-27 17:44:00
 
 ---
 <p align="center">
@@ -30,6 +30,10 @@ last_modified_at: 2021-09-16 10:02:16
   </a>
 </p>
 As part of my internship at Inkblot Media Group, I was tasked with redesigning a potential client's current website. The website was a storefront for selling a certain woodworking product. 
+
+To create the wireframe mockups, I used the Mockup app on my 7th Gen iPad with my Apple Pencil. I then used Canva create the pages for the report and add the text and images.
+
+Note that the name of the client and their logos are blurred in the images to respect their privacy.
 
 
 <p align="center">
