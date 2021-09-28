@@ -80,12 +80,12 @@ feature_row2:
 <tbody>
 
   <tr>
-    <td><a href="https://brian-pob.github.io/portfolio/site_redesign/" target="_blank" rel="noopener noreferrer">Electronic Storefront Redesign</a>.</td>
+    <td><a href="https://brian-pob.github.io/portfolio/site_redesign/" target="_blank" rel="noopener noreferrer">Electronic Storefront Redesign</a></td>
     <td>I analyzed and tested the design and functionality of the website of a potential client. I listed usability issues with the old site design and created wireframes for a new site with an improved design. I based the new design on known good design foundations for certain page types like a product page and video gallery.</td>
   </tr>
 
   <tr>
-    <td><a href="https://brian-pob.github.io/portfolio/360x/" target="_blank" rel="noopener noreferrer">360X Research Paper</a>.</td>
+    <td><a href="https://brian-pob.github.io/portfolio/360x/" target="_blank" rel="noopener noreferrer">360X Research Paper</a></td>
     <td>I co-authored a research paper on the design of a 360-degree-video platform interface. This paper was presented on April 2019 at the CHIUXID19 Conference held in Bali, Indonesia. The full paper is available for free <a href="https://www.researchgate.net/publication/331500855_A_Research_through_Design_Rtd_Approach_in_the_Design_of_a_360-Video_Platform_Interface" target="_blank" rel="noopener noreferrer">here</a>.</td>
   </tr>
 

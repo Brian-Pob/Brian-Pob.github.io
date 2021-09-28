@@ -59,11 +59,10 @@ last_modified_at: 2021-09-27 17:44:00
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/ipad_pic.jpg" alt="picture of iPad" width="400" />
   </a>
 </p>
-As part of my internship at Inkblot Media Group, I was tasked with redesigning a potential client's current website. The website was a storefront for selling a certain woodworking product. 
+As part of my internship at Inkblot Media Group, I was tasked with creating a new design for the website of a potential client. The website was a storefront for selling woodworking products. 
 
-To create the wireframe mockups, I used the Mockup app on my 7th Gen iPad with my Apple Pencil. I then used Canva create the pages for the report and add the text and images.
+To create the wireframe mockups, I used the Mockup app on my 7th Gen iPad with my Apple Pencil. I then uploaded the images of the wireframes to Canva, which I then used to create the report pages.
 
-Note that the name of the client and their logos are blurred in the images to respect their privacy.
 
 {% include gallery id='old_site' caption="Photos of the old design of the site" %}
 
@@ -75,19 +74,33 @@ Note that the name of the client and their logos are blurred in the images to re
 
 In my section of the report, I listed the issues with the current website design. These issues included the design being boring, having no call to action for the user, no structure in some pages, and information being unclear.
 
+Note that the name of the client and their logos are blurred in the images to respect their privacy.
+
 <p align="center">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png" alt="page 2 of report" width="400" />
   </a>
 </p>
 
-I then showed the wireframes for the redesign. To create the initial layout, I decided to look up some best practices for ecommerce website layouts. Like how products should be displayed and how information should be organized. Since the site also had a page dedicated for video guides, I also researched on proper layouts for displaying multiple videos on a page.
+I then display the wireframes for the redesign. To create the initial layout, I decided to look up some best practices for ecommerce website layouts like how products should be displayed and how information should be organized. To do this, I consulted various resources such as [UX Planet](https://uxplanet.org/ux-design-for-e-commerce-principles-and-strategies-9df7d81e59d8) and [nngroup.com](https://www.nngroup.com/articles/ecommerce-product-pages/). 
+
+Since the site also had a page dedicated for video guides, I also did some research on common layouts for displaying multiple YouTube links on a page.
+
+
 
 {% include gallery id='wf_site' caption="Wireframes for the redesigned site" %}
 
 One extremely critical area where I was admittedly lacking is user research. It was always my intention to conduct user research to determine what customers would want to have on a website like this. However, I was only able to do up to basic wireframe designs because the client did not push through with taking us up.
 
+<p align="center">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/jakobs_law.png" >
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/jakobs_law.png" alt="Jakob's Law of UX. Users will want your site to behave like other sites they have visited." width="400"  style="border-radius:10px;"/>
+  </a>
+</p>
 
-Nevertheless, I learned a lot about what should go into a good report. I also learned that there are a lot of resources that you can find online about tried and tested layouts that you can build off of after conducting user research and user tests.
+Nevertheless, I did what I could to obey [Jakob's Law of UX](https://lawsofux.com/jakobs-law/) and make the rough draft of the design resemble commonly used site layouts. Additionally, learned a lot about what should go into a good proposal for a client. We were not just doing a redesign of the site but also a restructuring of their marketing plan. Knowing this, we needed the proposal to have details on what we wanted to change about their marketing strategy.
 
-I will definitely remember this short project as it was my first UX Design project as part of an actual job.
+I also learned that there are a lot of resources that you can find online about tried and tested layouts that you can build off of after conducting user research and user tests. Of course, it is still best to do your own research and testing to come up with the best design for your users. 
+
+
+After all, **"You can't design UX in a boardroom"** (Denise Haak, CEO [Quiddity Usability Labs Inc.](https://www.quiddity.ph/)).
