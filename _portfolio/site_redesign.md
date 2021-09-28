@@ -1,9 +1,10 @@
 ---
 title: "Electronic Storefront Redesign"
-excerpt: "How I propsed a for a client's storefront using wireframes (Mockup for iPad)"
+excerpt: "How I created a proposal for the redesign of a client's storefront"
 header:
 #   image: /assets/images/360X/IMG_5658_cropped.jpg
   teaser: assets/images/site_redesign/ipad1.png
+
 sidebar:
   - title: "Roles"
     image: /assets/images/site_redesign/Ink_Blot_logo_splat.png
@@ -12,15 +13,44 @@ sidebar:
 
   - title: "Responsibilities"
     text: "Created wireframes for a site redesign"
-gallery:
-  - url: /assets/images/site_redesign/client_site_blur_1.png
-    image_path: assets/images/site_redesign/client_site_blur_1.png
-    alt: "Page 1 of site redesign report listing issues with current design"
 
-  - url: /assets/images/site_redesign/client_site_blur_2.png
-    image_path: assets/images/site_redesign/client_site_blur_2.png
-    alt: "Page 2 of site redesign report showing wireframes"
+old_site:
+  - url: /assets/images/site_redesign/old2.jpg
+    image_path: assets/images/site_redesign/old2.jpg
+    alt: "Old site home page"
 
+  - url: /assets/images/site_redesign/image6.png
+    image_path: assets/images/site_redesign/image6.png
+    alt: "Old site store page"
+
+  - url: /assets/images/site_redesign/old4.png
+    image_path: assets/images/site_redesign/old4.png
+    alt: "Old site videos page"
+
+wf_site:
+  - url: /assets/images/site_redesign/splash_page_wf.png
+    image_path: assets/images/site_redesign/splash_page_wf.png
+    alt: "Wireframe of new splash page"
+
+  - url: /assets/images/site_redesign/store_page_wf.png
+    image_path: assets/images/site_redesign/store_page_wf.png
+    alt: "Wireframe of new store page"
+    
+  - url: /assets/images/site_redesign/videos_page_wf.png
+    image_path: assets/images/site_redesign/videos_page_wf.png
+    alt: "Wireframe of new videos page"
+
+  - url: /assets/images/site_redesign/prod_page_wf.png
+    image_path: assets/images/site_redesign/prod_page_wf.png
+    alt: "Wireframe of new product page"
+
+  - url: /assets/images/site_redesign/photo_gallery_wf.png
+    image_path: assets/images/site_redesign/photo_gallery_wf.png
+    alt: "Wireframe of new photo gallery page"
+
+  - url: /assets/images/site_redesign/ipad1.png
+    image_path: assets/images/site_redesign/ipad1.png
+    alt: "I used Mockup for iPad to create the wireframes"
 last_modified_at: 2021-09-27 17:44:00
 
 ---
@@ -35,6 +65,7 @@ To create the wireframe mockups, I used the Mockup app on my 7th Gen iPad with m
 
 Note that the name of the client and their logos are blurred in the images to respect their privacy.
 
+{% include gallery id='old_site' caption="Photos of the old design of the site" %}
 
 <p align="center">
   <a href="#">
@@ -52,6 +83,7 @@ In my section of the report, I listed the issues with the current website design
 
 I then showed the wireframes for the redesign. To create the initial layout, I decided to look up some best practices for ecommerce website layouts. Like how products should be displayed and how information should be organized. Since the site also had a page dedicated for video guides, I also researched on proper layouts for displaying multiple videos on a page.
 
+{% include gallery id='wf_site' caption="Wireframes for the redesigned site" %}
 
 One extremely critical area where I was admittedly lacking is user research. It was always my intention to conduct user research to determine what customers would want to have on a website like this. However, I was only able to do up to basic wireframe designs because the client did not push through with taking us up.
 

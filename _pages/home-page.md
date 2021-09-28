@@ -44,7 +44,7 @@ feature_row:
     image_caption: "Image courtesy of [Mockup](https://getmockup.app/)"
     alt: "placeholder image 2"
     title: "Electronic Storefront Redesign"
-    excerpt: "How I propsed a for a client's storefront using wireframes (Mockup for iPad)"
+    excerpt: "How I created a proposal for the redesign of a client's storefront"
     url: "/portfolio/site_redesign/"
     btn_label: "Read More"
     btn_class: "btn--primary"
