@@ -56,7 +56,7 @@ last_modified_at: 2021-09-27 17:44:00
 ---
 <p align="center">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/ipad_pic.jpg">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/ipad_pic.jpg" alt="picture of iPad" width="400" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/ipad_pic.jpg" alt="picture of iPad" width="400" style="border-radius:10px" />
   </a>
 </p>
 As part of my internship at Inkblot Media Group, I was tasked with creating a new design for the website of a potential client. The website was a storefront for selling woodworking products. 
@@ -68,7 +68,7 @@ To create the wireframe mockups, I used the Mockup app on my 7th Gen iPad with m
 
 <p align="center">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_1.png">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_1.png" alt="page 1 of report" width="400" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_1.png" alt="page 1 of report" width="400" style="border-radius:10px;"/>
   </a>
 </p>
 
@@ -78,7 +78,7 @@ Note that the name of the client and their logos are blurred in the images to re
 
 <p align="center">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png" alt="page 2 of report" width="400" />
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png" alt="page 2 of report" width="400" style="border-radius:10px;"/>
   </a>
 </p>
 
