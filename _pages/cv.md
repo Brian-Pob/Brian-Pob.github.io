@@ -58,7 +58,7 @@ feature_row2:
   <tr>
     <td>UX Design Intern</td>
     <td><a href="https://inkblotmediagroup.com/">Inkblot Media Group Inc.</a></td>
-    <td>Feb. 2021 - Present        </td>
+    <td>Feb. 2021 - Jul. 2021       </td>
   </tr>
   <tr>
     <td>Quality Assurance Intern</td>
@@ -76,20 +76,29 @@ feature_row2:
     <th>Description</th>
   </tr>
 </thead>
+
 <tbody>
+
   <tr>
-    <td>360X Research Paper</td>
+    <td><a href="https://brian-pob.github.io/portfolio/site_redesign/" target="_blank" rel="noopener noreferrer">Electronic Storefront Redesign</a>.</td>
+    <td>I analyzed and tested the design and functionality of the website of a potential client. I listed usability issues with the old site design and created wireframes for a new site with an improved design. I based the new design on known good design foundations for certain page types like a product page and video gallery.</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://brian-pob.github.io/portfolio/360x/" target="_blank" rel="noopener noreferrer">360X Research Paper</a>.</td>
     <td>I co-authored a research paper on the design of a 360-degree-video platform interface. This paper was presented on April 2019 at the CHIUXID19 Conference held in Bali, Indonesia. The full paper is available for free <a href="https://www.researchgate.net/publication/331500855_A_Research_through_Design_Rtd_Approach_in_the_Design_of_a_360-Video_Platform_Interface" target="_blank" rel="noopener noreferrer">here</a>.</td>
   </tr>
+
   <tr>
     <td>COMET Front-End Development Workshop</td>
     <td>I co-taught a basic front-end development workshop for the Center for Complexity and Emerging Technologies (COMET) Lab at De LaSalle University, Manila. I created most of the materials used for the workshop available <a href="https://github.com/Brian-Pob/FrontEndWorkshop" target="_blank" rel="noopener noreferrer">here</a>.</td>
   </tr>
+
 </tbody>
 </table>
 
-## Certifications (Click images to zoom in)
-{% include gallery id="certificates_gallery" caption="UX certificates from the Interaction Design Foundation (IxDF)." %}
+## Certifications
+{% include gallery id="certificates_gallery" caption="UX certificates from the Interaction Design Foundation (IxDF). Click to zoom in." %}
 ## Education
 
 <table style="width:100%;">
