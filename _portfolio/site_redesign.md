@@ -55,7 +55,7 @@ last_modified_at: 2021-09-27 17:44:00
 
 ---
 <p align="center">
-  <a href="#">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/ipad_pic.jpg">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/ipad_pic.jpg" alt="picture of iPad" width="400" />
   </a>
 </p>
@@ -68,7 +68,7 @@ Note that the name of the client and their logos are blurred in the images to re
 {% include gallery id='old_site' caption="Photos of the old design of the site" %}
 
 <p align="center">
-  <a href="#">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_1.png">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_1.png" alt="page 1 of report" width="400" />
   </a>
 </p>
@@ -76,7 +76,7 @@ Note that the name of the client and their logos are blurred in the images to re
 In my section of the report, I listed the issues with the current website design. These issues included the design being boring, having no call to action for the user, no structure in some pages, and information being unclear.
 
 <p align="center">
-  <a href="#">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/site_redesign/client_site_blur_2.png" alt="page 2 of report" width="400" />
   </a>
 </p>
