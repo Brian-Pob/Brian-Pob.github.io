@@ -91,7 +91,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/profile_sq.png"
-  bio              : "UX Designer. Web Developer. Jesus Freak. Pro Gamer. Book Consumer."
+  bio              : "Computer Science Major. UX Designer. Web Developer. Jesus Freak. Book Consumer."
   location         : "Tallahassee, FL"
   links:
     # - label: "haven't bought the domain yet lol"
@@ -99,13 +99,13 @@ author:
     #   url: "https://brianpoblete.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:brian.poblete98@gmail.com"
+      url: "mailto:brianmp.dev@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"  
       url: "https://www.linkedin.com/in/brian-poblete/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dabrianator"
+      url: "https://twitter.com/brianpob_dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Brian-Pob"
@@ -117,10 +117,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:brian.poblete98@gmail.com"
+      url: "mailto:brianmp.dev@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dabrianator"
+      url: "https://twitter.com/brianpob_dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Brian-Pob"
