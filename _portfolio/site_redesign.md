@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: "Roles"
     image: /assets/images/site_redesign/Ink_Blot_logo_splat.png
-    image_alt: "Mockup App for iPad"
+    image_alt: "Ink Blot Media Group Inc."
     text: "Designer, Report Writer"
 
   - title: "Responsibilities"

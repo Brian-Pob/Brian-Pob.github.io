@@ -1,5 +1,5 @@
 ---
-title: "Hi! (Work in progress)"
+title: "Hi!"
 layout: single
 permalink: /
 date: 2021-06-19
@@ -7,11 +7,11 @@ date: 2021-06-19
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: 'https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/work-in-progress_zJ6mkuuu_SB_PM.jpg'
+  overlay_image: 'assets/images/me/wide_left_content_cropped3.jpg'
   # actions:
   #   - label: "View My Portfolio"
   #     url: "/portfolio/"
-  caption: "Photo credit: [**Storyblocks**](https://storyblocks.com)"
+  caption: ""
 excerpt: "Welcome to my website! I am a UX Designer and Web Developer based in Tallahassee, Florida. Take a look at some of my previous projects. You'll probably find some of them quite interesting!"
 
 about_me: 
