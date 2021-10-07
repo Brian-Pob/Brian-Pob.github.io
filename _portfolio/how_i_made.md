@@ -90,16 +90,14 @@ You can easily find a free theme that suits your needs and your tastes. Plus, th
 
 
 > Hi. If you are reading this, then thank you! I am currently in the process of  writing this article so it is incomplete.
- In case you are curious, below are a few lines detailing a rough idea I have for what I want to put
-in this article.
+> In case you are curious, below are a few lines detailing a rough idea I have for what I want to put
+> in this article.
 
----
-
-Talk about how lightweight it is so I can make new articles fairly easily. 
-I can compile and run a jekyll site with underpowered hardware. 
-I can edit it directly on GitHub using GitHub.dev. 
-I can even edit the code remotely using my 2nd PC at home. 
-Then I can use SSH tunneling with through an app to access that PC's localhost so I can preview the site on Safari for iPad.
-It really is super cool. It has a lot of features. Minimal Mistakes is awesome. 
-There was a learning curve but once I sat down and devoted time to learning it I was able to build this site and add content.
+> > Talk about how lightweight it is so I can make new articles fairly easily. 
+> > I can compile and run a jekyll site with underpowered hardware. 
+> > I can edit it directly on GitHub using GitHub.dev. 
+> > I can even edit the code remotely using my 2nd PC at home. 
+> > Then I can use SSH tunneling with through an app to access that PC's localhost so I can preview the site on Safari for iPad.
+> > It really is super cool. It has a lot of features. Minimal Mistakes is awesome. 
+> > There was a learning curve but once I sat down and devoted time to learning it I was able to build this site and add content.
 >
