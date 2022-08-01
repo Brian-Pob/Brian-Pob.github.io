@@ -134,6 +134,7 @@ GEM
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
     verbal_expressions (0.1.5)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -151,9 +152,10 @@ DEPENDENCIES
   kramdown-parser-gfm
   minimal-mistakes-jekyll
   tzinfo-data
+  webrick (~> 1.7)
 
 RUBY VERSION
-   ruby 2.7.2p137
+   ruby 2.7.6p219
 
 BUNDLED WITH
-   2.2.27
+   2.3.19

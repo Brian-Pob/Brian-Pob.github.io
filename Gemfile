@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.7.2'
+ruby '2.7.6'
 
 gem "jekyll", "~> 3.7"
 gem "minimal-mistakes-jekyll"
@@ -19,3 +19,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "kramdown-parser-gfm"
 end
+
+gem "webrick", "~> 1.7"

@@ -64,7 +64,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "dabrianator"
+  username               : &twitter "brianmpdotdev"
 # facebook:
 #   username               : &facebook "michaelrose"
 #   app_id                 :
@@ -76,8 +76,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/dabrianator"
-    - "https://www.linkedin.com/Brian-Pob"
+    - "https://twitter.com/brianmpdotdev"
+    - "https://www.linkedin.com/in/brian-pob/"
 
 # Analytics
 analytics:
@@ -102,10 +102,10 @@ author:
       url: "mailto:brianmp.dev@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"  
-      url: "https://www.linkedin.com/in/brian-poblete/"
+      url: "https://www.linkedin.com/in/brian-pob/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/brianpob_dev"
+      url: "https://twitter.com/brianmpdotdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Brian-Pob"
@@ -120,7 +120,7 @@ footer:
       url: "mailto:brianmp.dev@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/brianpob_dev"
+      url: "https://twitter.com/brianmpdotdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Brian-Pob"
